@@ -1,0 +1,7 @@
+pandas
+matplotlib.pyplot
+StepMix
+numpy
+seaborn
+os
+pytest
